@@ -11,7 +11,7 @@
 <circle stroke-width="2" stroke="black" r="2" cy="150" cx="200"></circle>
   
 
-<polyline style="fill:#284bea; stroke: #284bea; stroke-width:3" points="30,30 40,25 60,40 80,120 120,140 200,150"></polyline>
+<polyline style="fill:none; stroke: #284bea; stroke-width:3" points="30,30 40,25 60,40 80,120 120,140 200,150"></polyline>
     
  <text x="500" y="150" text-anchor="middle" font-size="17px">From
 Sayan Bandyopadhyay 181001001040 </text>

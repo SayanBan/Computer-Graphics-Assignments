@@ -1,0 +1,27 @@
+<svg version="1.1" xmlns="http://www.w3.org/2000/svg">
+<circle fill="#009dff" stroke-width="2" stroke="black" r="100" cy="150" cx="200"></circle>
+  
+  
+<line stroke-width="2" stroke="black" y2="150" x2="200" y1="0" x1="0"></line>
+  
+<rect style="fill:yellow; stroke:brown; stroke-width:2; fill-opacity:0.4; stroke-opacity:0.8" height="120" width="170" y="30" x="30"></rect>
+  
+<rect style="fill:red; stroke:brown; stroke-width:2; fill-opacity:0.4; stroke-opacity:0.8" height="100" width="100" y="100" x="100"></rect>
+  
+<circle stroke-width="2" stroke="black" r="2" cy="150" cx="200"></circle>
+  
+
+<polyline style="fill:none; stroke: #284bea; stroke-width:3" points="30,30 40,25 60,40 80,120 120,140 200,150"></polyline>
+    
+ <text x="500" y="150" text-anchor="middle" font-size="17px">From
+Sayan Bandyopadhyay 181001001040 </text>
+    
+<text x="200" y="350" text-anchor="middle" font-size="15px" fill="#009dff">Aqua: Circle</text>
+<text x="200" y="365" text-anchor="middle" font-size="15px" fill="#FFC300">Yellow: Rectangle</text>
+<text x="200" y="380" text-anchor="middle" font-size="15px" fill="#ff0000">Tomato Red: Square</text>
+<text x="200" y="395" text-anchor="middle" font-size="15px">Black: Line</text>
+<text x="200" y="410" text-anchor="middle" font-size="15px" fill="#284bea">Deep Blue: PolyLine</text>
+
+
+
+</svg>

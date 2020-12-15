@@ -1,0 +1,144 @@
+newmtl ivory
+Ka 1 1 0.9
+Kd 1 1 0.9
+Ks 1 1 0.9
+illum 2
+Ns 100
+newmtl ivory1
+Ka 0.85 0.85 0.6
+Kd 0.85 0.85 0.6
+Ks 0.85 0.85 0.6
+illum 2
+Ns 100
+newmtl ivory2
+Ka 0.7 0.7 0.5
+Kd 0.7 0.7 0.5
+Ks 0.7 0.7 0.5
+illum 2
+Ns 100
+
+newmtl green
+Ka 0 1 0
+Kd 0 1 0
+Ks 0 1 0
+illum 2
+Ns 100
+
+newmtl green1
+Ka 0 0.5 0
+Kd 0 0.5 0
+Ks 0 0.5 0
+illum 2
+Ns 100
+
+newmtl white
+Ka 1 1 1
+Kd 1 1 1
+Ks 1 1 1
+illum 2
+Ns 100
+
+newmtl black
+Ka 0 0 0
+Kd 0 0 0
+Ks 0 0 0
+illum 2
+Ns 100
+
+newmtl gray
+Ka 0.7 0.7 0.7
+Kd 0.7 0.7 0.7
+Ks 0.7 0.7 0.7
+illum 2
+Ns 100
+
+newmtl gray1
+Ka 0.6 0.6 0.6
+Kd 0.6 0.6 0.6
+Ks 0.6 0.6 0.6
+illum 2
+Ns 100
+
+newmtl gray2
+Ka 0.3 0.3 0.3
+Kd 0.3 0.3 0.3
+Ks 0.3 0.3 0.3
+illum 2
+Ns 100
+
+
+newmtl gray3
+Ka 0.1 0.1 0.1
+Kd 0.1 0.1 0.1
+Ks 0.1 0.1 0.1
+illum 2
+Ns 100
+
+
+newmtl red
+Ka 1 0 0
+Kd 1 0 0 
+Ks 1 0 0 
+illum 2
+Ns 100
+
+newmtl gold
+Ka 1 0.8 0.1
+Kd 1 0.8 0.1
+Ks 1 0.8 0.1
+illum 2
+Ns 100
+
+newmtl red1
+Ka 0.5 0 0
+Kd 0.5 0 0 
+Ks 0.5 0 0 
+illum 2
+Ns 100
+
+newmtl blue
+Ka 0 0 1
+Kd 0 0 1 
+Ks 0 0 1 
+illum 2
+Ns 100
+
+newmtl blue1
+Ka 0 0 0.5
+Kd 0 0 0.5
+Ks 0 0 0.5
+illum 2
+Ns 100
+
+
+newmtl yellow
+Ka 1  1 0.01
+Kd 1  1 0.01
+Ks 1  1 0.01
+illum 2
+Ns 100
+
+newmtl indigo
+Ka 0.1 0.5 0.6
+Kd 0.1 0.5 0.6
+Ks 0.1 0.5 0.6
+illum 2
+Ns 100
+
+newmtl indigo1
+Ka 0.1684 0.3537 0.4779
+Kd 0.1684 0.3537 0.4779
+Ks 0.1684 0.3537 0.4779
+illum 2
+Ns 100
+
+
+
+
+newmtl red_0
+Ka 0.95686275 0.26274511 0.21176471
+Kd 0.95686275 0.26274511 0.21176471
+Ks 0.95686275 0.26274511 0.21176471
+illum 2
+Ns 100
+
